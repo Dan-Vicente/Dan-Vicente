@@ -4,4 +4,10 @@
 
 - 📫 How to reach me: daniel.oliveira079@academico.ufgd.edu.br
 
+My love things
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,py" />
+  </a>
+</p>
