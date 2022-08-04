@@ -19,3 +19,12 @@ My love things
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Vicente&show_icons=true&theme=radical)
+</br>
+<h3>
+My English proficiency!
+</h3>
+<a href="https://certs.duolingo.com/8j3jhy95"><img src="https://logosmarcas.net/wp-content/uploads/2021/04/Duolingo-Logo.png"
+     alt="A cabeça e o tronco de um esqueleto de dinossauro;
+          tem uma cabeça grande com dentes longos e afiados"
+     width="80"
+     height="60">
