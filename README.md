@@ -12,9 +12,9 @@ My love things
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,js,html,css,py" />
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Vicente)](https://github.com/anuraghazra/github-readme-stats)
 
   </a>
 </p>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dan-Vicente&show_icons=true&theme=radical)
