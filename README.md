@@ -1,3 +1,4 @@
+
 ![](https://komarev.com/ghpvc/?username=your-github-Dan-Vicente&label=PROFILE+VIEWS)
 
 - 👋 Hi, I’m @Dan-Vicente a Physicist with a Masters in Physics with Research on Remotelabs.
@@ -10,9 +11,9 @@ My love things
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,py" />
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,py,bootstrap,r,visualstudio" />
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Vicente)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-Vicente&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
   </a>
 </p>
