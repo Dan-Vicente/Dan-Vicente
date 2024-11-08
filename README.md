@@ -1,7 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Dan-Vicente&label=PROFILE+VIEWS)
 
-- 👋 Hi, I’m @Dan-Vicente a Physicist with a Masters in Physics with Research on Remotelabs.
+- 👋 - 👋 Hello, I'm @Dan-Vicente a Physicist with a Master's Degree in Physics with Research in Remotelabs.
+Currently in a PhD in Physics at the University of Beira Interior with research related to cosmic microwave background.
+
 - 👀 I’m interested in understanding of data analysis and statistics for business applications.
 - 🌱 I’m currently learning R, Python, Azure and microsoft BI and Frontend Developer.
 
